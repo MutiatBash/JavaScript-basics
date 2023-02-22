@@ -9,9 +9,9 @@ console.log(multiply(4, 3));
 // creating variables
 const firstName = "Mutiat";
 const lastName = "Bashua";
-let track = "front-end development";
+let track = "Mobile development";
 let skills = ["HTML", "CSS", "JavaScript"];
-let favColor = "pink";
+let favColor = "peach";
 const independence = 1960;
 const sentence =
   "My name is " +
