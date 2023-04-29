@@ -1,6 +1,3 @@
-// Question 1
-// Mutating Array Methods
-
 // Question 2
 const languages = ["C#", "JavaScript", "Ruby", "PHP", "Python"];
 
@@ -40,3 +37,7 @@ max(numbers);
 console.log(max(numbers));
 
 // Question 5
+function ValTimesIndex(arr) {
+  return arr.map((val, index) => val * index);
+}
+ValTimesIndex([5, 8, 50]);
